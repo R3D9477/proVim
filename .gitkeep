@@ -1,1 +1,6 @@
-vim/*
+vim/after
+vim/bundle
+vim/plugin
+vim/profiles
+vim/session
+vim/view
