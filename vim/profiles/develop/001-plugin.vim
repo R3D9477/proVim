@@ -1,0 +1,20 @@
+NeoBundle "Shougo/vimshell.vim"
+NeoBundle "scrooloose/syntastic"
+NeoBundle "severin-lemaignan/vim-minimap"
+NeoBundle "nathanaelkane/vim-indent-guides"
+
+NeoBundle "jdonaldson/vaxe"
+NeoBundle "OmniSharp/omnisharp-vim"
+
+NeoBundle "r3d9u11/vim-studio"
+NeoBundle "r3d9u11/vim-studio.buf"
+NeoBundle "r3d9u11/vim-studio.minimap"
+NeoBundle "r3d9u11/vim-studio.clang"
+NeoBundle "r3d9u11/vim-studio.nodejs"
+NeoBundle "r3d9u11/vim-studio.omnisharp"
+NeoBundle "r3d9u11/vim-studio.vaxe"
+NeoBundle "r3d9u11/vim-studio.haxeumlgen"
+
+"NeoBundle "r3d9u11/vim-studio.vimshell"
+"NeoBundle "r3d9u11/vim-studio.ihx"
+"NeoBundle "r3d9u11/vim-studio.muse"
