@@ -4,10 +4,20 @@ proVim
 Profiled [vim](http://www.vim.org)
 
 ## Install
+
 * move `mv ~/.vim ~/.vim.orig && mv ~/.vimrc ~/.vimrc.orig` or delete `rm ~/.vim ~/.vim.orig && rm ~/.vimrc ~/.vimrc.orig` your current vim's config
 * clone latest configuration: `git clone https://github.com/r3d9u11/proVim.git`
 * make links of proVim to your home directory: `ln -s $PWD/proVim/vimrc ~/.vimrc && ln -s $PWD/proVim/vim ~/.vim`
 * now you can launch your vim with different profiles and configurations, for example `vim profile=develop`
+
+#### Launch
+
+Example of launch script for [caja](https://github.com/mate-desktop/caja) located at `~/.config/caja/scripts/proGVim`:
+
+```bash
+#!/bin/bash
+gvim "$@" "profile=develop"
+```
 
 ## Standard profiles
 
@@ -18,12 +28,3 @@ All profiles located at: `proVim/vim/profiles`<br/>
 * develop - is an advanced configuration with specialized set of plugins, settings of keyboard  and other setups (this is default profile)
 
 You can make your own profiles, of course.<br/>
-
-#### Launch
-
-Example of launch script for [caja](https://github.com/mate-desktop/caja) located at `~/.config/caja/scripts/proGVim`:
-
-```bash
-#!/bin/bash
-gvim "$@" "profile=develop"
-```
