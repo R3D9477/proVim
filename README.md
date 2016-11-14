@@ -1,7 +1,7 @@
 proVim
 =========================
 
-Profiled [vim](http://www.vim.org). You can have one favorite editor for any situations and simply to manage your configurations.
+Profiled [vim](http://www.vim.org). With proVim you can have one favorite editor and simply to manage your configurations for any situations.
 
 ## Install
 
