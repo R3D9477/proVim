@@ -19,7 +19,7 @@ Example of launch script for [caja](https://github.com/mate-desktop/caja) locate
 gvim "$@" "profile=develop"
 ```
 
-## Standard profiles
+## Default profiles
 
 All profiles located at: `proVim/vim/profiles`<br/>
 
