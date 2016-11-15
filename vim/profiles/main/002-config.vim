@@ -43,9 +43,7 @@ let g:startify_list_order = [
 \ ]
 
 let g:startify_bookmarks = [
-	\ { "s": "~/Dropbox/Projects/r3d9u11/StablexUI-Designer/StablexUI-Designer.visp" },
-	\ { "q": "~/Dropbox/Projects/DMT-Traiding/StandETT/StandETT - TermoCamera/StandETT - TermoCamera.visp" },
-	\ { "w": "~/Dropbox/Projects/DMT-Traiding/StandETT/StandETT - Client/StandETT - Client.visp" }
+	
 \ ]
 
 let g:startify_skiplist = [
