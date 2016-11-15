@@ -42,9 +42,9 @@ let g:startify_list_order = [
 	\ "dir"
 \ ]
 
-let g:startify_bookmarks = [
-	
-\ ]
+"let g:startify_bookmarks = [
+"	
+"\ ]
 
 let g:startify_skiplist = [
 	\ "COMMIT_EDITMSG",
